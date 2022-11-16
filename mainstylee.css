@@ -1,0 +1,185 @@
+
+img#heder{
+	width:650px;
+	float:left;
+	margin-left:70;
+	margin-bottom:10px;
+    margin-top:-40;
+	}
+
+div#topbar{
+	background:#ED98B2;
+	width:1299px;
+	height:80px;
+	top: 0;
+	position: sticky;
+	margin-left:-8px;
+	margin-top:-8px;
+	padding-top:10px;
+	padding-bottom:15px;
+	padding-left:210px;
+	border:5px solid #DD87A1;
+	}
+	
+img#smi{
+	width:90px;
+	height:90px;
+	padding-left:20px;
+	float:left;
+	padding-right:30px;
+	}
+p#ver{
+	font-family: Yeseva One;
+	color:##FFF0E2;
+	float:left;
+	padding: 10px;
+	background: url(wallpaper.png) scroll repeat;
+	border:5px solid #DD87A1;
+    margin-top: 5px;
+	}
+
+a.da{
+	color:#FFF0E2;
+	font-size:35px;
+	font-family: Lobster;	
+	}
+
+span#woof{
+		padding-left:50px;
+		padding-right:50px;
+
+		}
+
+div#name{
+	background:#FFEDE9;
+	width:450px;
+	float:left;
+	margin-left:800;
+	margin-top:-20;
+	
+	}
+	
+p#boo{
+	text-align:center;
+	color:#FDA834;
+	font-family: Yeseva One;
+	font-size:20px;
+	float:left;
+	padding-right:20px;
+	}
+	
+p.raa{
+	color:#FFEDE9;
+	font-family:Lobster;
+	font-size:30px;
+	padding-left:80px;
+	padding-top:20px;
+	position:center;
+	background:#FDA834 url(wav.png) 10px repeat;
+	border:6px solid #FF8740;
+	width:600px;
+	height:70px;
+	float:left;
+	margin-top:30px;
+	margin-left:30px;
+	}
+	
+p.baa{
+	color:#F06E20;
+	text-align:justify;
+	line-height:40px;
+	font-size:20px;
+	margin-right:450px;
+	font-family:Comfortaa;
+	width:900px;
+	height:700px;
+	padding-left:80px;
+	padding-bottom:70px;
+	}
+img#drive{
+	width:500px;
+	border:5px solid #F06E20;
+	margin-left:100px;
+	margin-top: -200px;
+ 
+	}
+img#duuu{
+	width:500px;
+	border:5px solid #F06E20;
+	margin-left:100px;
+	margin-top: 5px;
+ 
+	}
+p.laa{
+	color:#F06E20;
+	text-align:justify;
+	line-height:40px;
+	font-size:20px;
+	margin-right:450px;
+	font-family:Comfortaa;
+	padding-left:80px;
+	padding-bottom:30px;
+	}	
+img#hart{
+	width:70px;
+	padding-left:20px;
+	float:left;
+	padding-right:10px;
+	padding-top:-20px;
+	}
+p.blaa{
+	color:#F06E20;
+	text-align:justify;
+	line-height:30px;
+	font-size:20px;
+	margin-right:450px;
+	font-family:Comfortaa;
+	padding-left:80px;
+	padding-bottom:30px;
+	}
+
+img#hipi{
+	width:250px;
+	float:right;
+	margin-right:130px;
+	margin-top:-20px;
+	
+	}
+div#sidebar{
+	background:#ED98B2;
+	border:5px solid #DD87A1;
+	width:200px;
+	height:800px;	
+	float:right;
+	margin-right:155;
+
+	}
+
+p#sb{
+	text-align: center;
+	font-size: 20px;
+	font-family:Yeleva One;
+	font-weight:bolder;
+	color:#FFEDE9;
+	text-decoration:underline;
+
+	}
+	
+img#daisy{
+	height: 30px;
+	padding-left:5px;
+	float:left;
+	padding-right:10px;
+	padding-top:-20px;
+	}
+a#xa{
+	color:#FFF0E2;
+	font-size:20px;
+	width:50px;
+	font-family:Comfortaa;	
+	padding-bottom:-10px;
+	}
+	
+	
+	
+	
